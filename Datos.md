@@ -25,9 +25,9 @@
                 <td>30/01</td><!--fecha-->
                 <td>mati.jrr@gmail.com</td><!--mail-->
                 <td>-</td><!--sobreNombre-->
-                <td>matias.albacetti</td><!--alias-->
+                <td>MATI.ALBACETTI.G</td><!--alias-->
                 <td>mati.jrr@gmail.com</td><!--todopago-->
-                <td>-</td><!--CBU-->
+                <td>00700931-30004014661733</td><!--CBU-->
             </tr>
             <tr>
                 <td>40.136.101</td><!--DNI-->
