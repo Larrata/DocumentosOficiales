@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo2.jpg" width=250 height=200><br>
+  <img src="rosariosm.jpg" width=250 height=200><br>
   🐀 Larrata 🐀 <br>
   2021<br><br>
 
