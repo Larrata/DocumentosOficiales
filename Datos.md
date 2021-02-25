@@ -27,7 +27,7 @@
                 <td>-</td><!--sobreNombre-->
                 <td>MATI.ALBACETTI.G</td><!--alias-->
                 <td>mati.jrr@gmail.com</td><!--todopago-->
-                <td>00700931-30004014661733</td><!--CBU-->
+                <td>0070093130004014661733</td><!--CBU-->
             </tr>
             <tr>
                 <td>40.136.101</td><!--DNI-->
