@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="logomym2.PNG" width=250 height=200><br>
+  <img src="logo2.jpg" width=250 height=200><br>
   🐀 Larrata 🐀 <br>
-  2020<br><br>
+  2021<br><br>
 
   <b>
   Reglamento y Normas de Convivencia<br>
@@ -9,7 +9,7 @@
 </p>
 <br>
 <p align="justify">
-En la Ciudad Autónoma de Buenos Aires, al tercer día del mes de agosto del año 2020, la Administración M&M -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 -de ahora en adelante "El grupo"-.
+En la Ciudad Autónoma de Buenos Aires, al segundo día del mes de febrero del año 2021, la Administración S&M -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 -de ahora en adelante "El grupo"-.
 
 ## Reglas
 
@@ -111,9 +111,9 @@ A continuación, se detallan las fechas de cumpleaños de los agentes a modo de 
 ## ANEXO 2º - Administración actual, vigencia y próximas elecciones
 
 <p align="justify">
-Designese como administradores de "El Grupo" a los agentes Rabahia, Sergio Mathias, de documento nacional de identidad 40136101 y Albacetti Mandrillo, Matias Nicolás de documento nacional de identidad 40129244.<br>
-<b>Vigencia</b>: el mandato de esta administración finaliza el 1 de febrero del año 2021 a las 23:59 horas.<br>
-<b>Próximas elecciones</b>: se llevarán a cabo el sábado 30 de enero del año 2021.
+DDesignese como administradores de "El Grupo" a los agentes Rabahia, Sergio Mathias, de documento nacional de identidad 40136101 y Vera, Santiago Raul de documento nacional de identidad 39627001.<br>
+<b>Vigencia</b>: el mandato de esta administración finaliza el 1 de febrero del año 2021 a las 23:59 horas.<br>	<b>Vigencia</b>: el mandato de esta administración finaliza el 1 de agosto del año 2021 a las 23:59 horas.<br>
+<b>Próximas elecciones</b>: se llevarán a cabo el sábado 30 de enero del año 2021.	<b>Próximas elecciones</b>: se llevarán a cabo el sábado 31 de julio del año 2021.
 
 
 ## ANEXO 3º - Sobrenombres de los agentes
@@ -239,13 +239,13 @@ Pertenecer al Grupo Larrata implica que el agente en cuestión acepta y respetar
 <table>
   <tr>
     <td><img src="firmaRabahia.jpeg" width=176 height=90>
-    <td><img src="firma Albacetti, Matías.png" width=176 height=90>
+    <td><img src="Firma Temporal.png" width=176 height=90>
   </tr>
   <tr>
     <td>Rabahia, Sergio Mathias
-    <td>Albacetti Mandrillo, Matias Nicolás
+    <td>Vera, Santiago Raul
   </tr>
 </table> 
 
 <p align="center">
-  Administración M&M<br><b>Con mano dura el orden perdura.</b>
+  Administración S&M<br><b>Juntos, somos mas.</b>
