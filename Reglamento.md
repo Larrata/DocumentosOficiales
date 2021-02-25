@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Administracion.jpg" width=250 height=200><br>
+  <img src="Administracion.png" width=250 height=200><br>
   🐀 Larrata 🐀 <br>
   2021<br><br>
 
