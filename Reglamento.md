@@ -49,19 +49,15 @@ En la Ciudad Autónoma de Buenos Aires, al segundo día del mes de febrero del a
   <li><p align="justify">  
     <b>Artículo 9°</b>.- La Administración tiene la potestad de actuar de oficio (penalizar a un agente sin que éste haya incumplido una de las reglas enunciadas en este documento) siempre que lo considere necesario. Cada vez que La Administración decida actuar de oficio, evaluará si la situación en cuestión amerita la creación de una nueva regla, con el fin de minimizar la cantidad de ocasiones en que este artículo deba aplicarse.
   </li>
-  </li>
-    <li><p align="justify">  
-    <b>Artículo 10°</b>.- El Anexo 6° (Datos Bancarios) se agrega a este documento, en el mismo se detallan los datos bancarios de todos los Agtes. del grupo con el fin de agilizar pagos y de minimizar problemas relacionados con el cambio.
-  </li>
   <li><p align="justify">  
-    <b>Artículo 11°</b>.- Queda terminantemente prohibido el uso de "lenguaje inclusivo" ya sea en sus variantes utilizando la letra "E" o la letra "X". Se exceptúan los casos catalogados como broma. La Administración evaluará cada caso apropiadamente y lo catalogará como broma o como uso adrede.<br>
+    <b>Artículo 10°</b>.- Queda terminantemente prohibido el uso de "lenguaje inclusivo" ya sea en sus variantes utilizando la letra "E" o la letra "X". Se exceptúan los casos catalogados como broma. La Administración evaluará cada caso apropiadamente y lo catalogará como broma o como uso adrede.<br>
   <b>Penalización:</b> 2 (dos) días por palabra escrita en lenguaje inclusivo.
   </li>
   <li><p align="justify">  
-    <b>Artículo 12°</b>.- El Anexo 7° (Sanciones por reincidencias) tiene total validez y vigencia, en dicho anexo se describen las penalizaciones por múltiples sanciones consecutivas y sus condiciones.
+    <b>Artículo 11°</b>.- El Anexo 7° (Sanciones por reincidencias) tiene total validez y vigencia, en dicho anexo se describen las penalizaciones por múltiples sanciones consecutivas y sus condiciones.
   </li>
   <li><p align="justify">  
-    <b>Artículo 13°</b>.- El Anexo 8° (Primero, la democracia) tiene total validez y vigencia, en dicho anexo se describen sus condiciones.
+    <b>Artículo 12°</b>.- El Anexo 8° (Primero, la democracia) tiene total validez y vigencia, en dicho anexo se describen sus condiciones.
   </li>
 </ul>
 
